@@ -1,0 +1,9 @@
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\lesko\Downloads\pps-master\pps-master\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
