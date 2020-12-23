@@ -1,0 +1,123 @@
+﻿@font-face {
+    font-family: 'Playball';
+    src: url('fonts/Playball.ttf') format('truetype');
+}
+
+.home-title {
+    color: white;
+    font-size: 150px;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-top: -100px;
+    font-family: 'Playball', cursive;
+    
+}
+
+.parallax-home-container {
+    left: 0;
+    width: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+    background: url(../images/background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+}
+
+.mixBlnd {
+    background-blend-mode: screen;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+footer {
+    background-color: #222222;
+    color: #9d9d9d;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+.dl-horizontal dt {
+    text-align: left;
+}
+
+dd {
+    overflow-wrap: break-word;
+}
+
+td {
+    overflow-wrap: break-word;
+    max-width: 300px
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
